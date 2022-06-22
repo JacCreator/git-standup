@@ -1,4 +1,4 @@
-# git-standup
+# git-standup!
 
 > Recall what you did on the last working day ..or be nosy and find what someone else did.
 
